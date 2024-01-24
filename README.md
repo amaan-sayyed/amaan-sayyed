@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Amaan Sayyed</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://camo.githubusercontent.com/19875f1335f25f9c47f80e0c04dc4a91f1b969c4ee67b97579025cb16a7d953b/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19875f1335f25f9c47f80e0c04dc4a91f1b969c4ee67b97579025cb16a7d953b/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan-sayyed&label=Profile%20views&color=0e75b6&style=flat" alt="amaan-sayyed" /> </p>
 
