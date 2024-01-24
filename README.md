@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_amaan786" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_amaan786?logo=twitter&style=for-the-badge" alt="i_am_amaan786" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, React.js, Express.js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Open Source and Full Stack**
 
