@@ -18,7 +18,7 @@
 ## 📝 Latest Blog Posts
 
 - [Deploying a Secure and Scalable AWS VPC for Production](https://amaansayyed.hashnode.dev/deploying-a-secure-and-scalable-aws-vpc-for-production)
-- [CSeamless MERN Stack Deployment with Jenkins CI/CD Automation](https://amaansayyed.hashnode.dev/seamless-mern-stack-deployment-with-jenkins-cicd-automation)
+- [Seamless MERN Stack Deployment with Jenkins CI/CD Automation](https://amaansayyed.hashnode.dev/seamless-mern-stack-deployment-with-jenkins-cicd-automation)
 - [Step-by-Step Guide to 3-Tier Architecture Deployment on AWS EKS via Helm](https://amaansayyed.hashnode.dev/step-by-step-guide-to-3-tier-architecture-deployment-on-aws-eks-via-helm)
 
 
