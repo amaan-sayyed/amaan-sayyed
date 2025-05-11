@@ -3,24 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan-sayyed&label=Profile%20views&color=0e75b6&style=flat" alt="amaan-sayyed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaan-sayyed" alt="amaan-sayyed" /></a> </p>
-
 - 🔭 I’m currently working on **Cloud-native applications and CI/CD pipelines using Docker, Kubernetes, and GitHub Actions**
 
-- 🌱 I’m currently learning **Kubernetes, Terraform, AWS (EC2, S3, EKS, IAM), GitHub Actions, and Monitoring tools like Prometheus and Grafana**
+- 🌱 I’m currently learning **Terraform, Ansible, and monitoring tools like Prometheus and Grafana**
 
 - 👯 I’m looking to collaborate on **Meaningful DevOps and Cloud-native projects that solve real-world problems**
 
 - 📝 I regularly write articles on [https://amaansayyed.hashnode.dev/](https://amaansayyed.hashnode.dev/)
 
-- 💬 Ask me about **Docker, Kubernetes, GitHub Actions, and AWS services**
+- 💬 Ask me about **Docker, Kubernetes, CI/CD tools like Jenkins and GitHub Actions, and AWS services**
 
 - 📫 How to reach me **sayyedamaan149@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amaan-sayyed-351593258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaan-sayyed-351593258" height="30" width="40" /></a>
 <a href="https://hashnode.com/@amaan724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amaan724" height="30" width="40" /></a>
+<a href="/https://amaansayyed.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://amaansayyed.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaan-sayyed&show_icons=true&locale=en" alt="amaan-sayyed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-sayyed&" alt="amaan-sayyed" /></p>
-
